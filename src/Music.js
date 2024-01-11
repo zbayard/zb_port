@@ -13,9 +13,12 @@ const Music = ()=> {
             <ReactPlayer url='https://youtu.be/luPmHAoAoy0?si=pK7AZwnHOXo2AV1C' width='30%' controls='true'/>
             <Spotify link="https://open.spotify.com/album/4U0pHPVVIUi2HeapNFvFGJ?si=KhpDFVH4TsaJLSpw9QypFQ" />
             <ReactPlayer url='https://www.youtube.com/watch?v=aluexDz3V4k&t' width='30%' controls='true'/>
-        </div>
-        <div className="socials">
-
+            <div className="socials">
+              <div>ig</div>
+              <div>yt</div>
+              <div>spotify</div>
+              <div>soundcloud</div>
+            </div>
         </div>
         
       </div>

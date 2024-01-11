@@ -2,9 +2,13 @@ body{
   margin: 0;
   font-family: 'Courier New', monospace;
   font-weight: bold;
-  color: #251f0d;
-  background-color: #F0EAD6;
-
+  background-color: #ffcc19;
+  color: #fd4a1e;
+  
+  
+  /* light mode pallet */
+  /* color: #251f0d;
+  background-color: #F0EAD6; */
   /* dark mode pallet */
   /* color: #F0EAD6; */
   /* background-color: #251f0d; */
